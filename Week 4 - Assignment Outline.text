@@ -1,0 +1,25 @@
+Francois is a young artist from Toronto looking to open a contemporary art gallery in a modern, 
+stylish city to display some of his eccentric pieces. He knows that Montreal, a city about 6-hour drive 
+from Toronto, is often referred to as the creative hub of Canada. He has packed his bags and moved 
+to Montreal in hope to open start his dream of bringing conceptual art to an exciting city. Despite his 
+eagerness and energy, he has little knowledge of Montreal and needs to figure out the perfect 
+location to open his gallery. Francois has described his art to be bold, inspiring, and though-
+provoking. He thinks the gallery will attract the following people:
+1.	Young professionals
+2.	People comfortable with liberal ideology (his art expresses major social issues)  
+3.	Artistic minds
+He has also commented that he wants his gallery to have an exclusive presence, and not just some 
+gallery on the intersection of a busy, high-traffic area. 
+Where in Montreal should Francois open his gallery?
+
+Wikipedia will be used to extract neighbourhood and postal code information, similar to what was 
+done for the Toronto assignment.
+Common venue data will be extracted from Foursquare API for each Neighbourhood to gauge 
+areas where there exist universities, cafes, and art-related venues. Neighbourhoods with retail and 
+restaurants will be avoided since Francois would like to have his gallery in a quieter area. 
+Clusters will be formed and analyzed. A cluster that best represents Francois ideal portfolio for a 
+location will be chosen and the neighbourhoods within the cluster will be further dissected.
+Additionally, the neighbourhood in the chosen cluster will be analyzed based on population and 
+average annual income. This data is retrieved from an external source.
+
+
